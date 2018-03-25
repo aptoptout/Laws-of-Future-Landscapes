@@ -1,5 +1,6 @@
-{
-    "07:30": {
+var ai_questions = [
+    {
+        "time": "07:30",
         "title": "morning time",
         "questions": {
             "00.01":{
@@ -1350,7 +1351,8 @@
             }  
         }
     },
-    "12:00": {
+    {
+        "time": "12:00",
         "title": "afternoon time",
         "questions": {
             "03.00": {
@@ -2083,7 +2085,8 @@
             }
         }
     },
-    "18:00": {
+    {
+        "time": "18:00",
         "title": "Evening time",
         "questions": {
             "09.01": {
@@ -2975,7 +2978,8 @@
             }
         }
     },
-    "00:00": {
+    {
+        "time": "00:00",
         "title": "night time",
         "questions": {
             "13.01": {
@@ -3106,7 +3110,8 @@
             }
         }
     },
-    "--:--": {
+    {
+        "time": "--:--",
         "title": "no time",
         "questions": {
             "14.01": {
@@ -3125,4 +3130,4 @@
             }
         }
     }
-}
+]
