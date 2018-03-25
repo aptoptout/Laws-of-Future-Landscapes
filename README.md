@@ -2,5 +2,5 @@
 A data-driven visual storytelling questionnaire by [Rafael Henneberke](www.rafaelhenneberke.com) & [Martijn de Heer](www.martijndeheer.nl)
 
 ### Experiments to conduct:
-- [ ] Translate results into 3D geometry
+- [ ] Martijn!
 - [ ] ??
