@@ -1,3 +1,17 @@
-body {
-  
+* {
+  font-family: helvetica;
+}
+
+.answerItem {
+  display: block;
+  margin: 0.5em 0 0.5em 0;
+  cursor: pointer;
+}
+
+.active {
+  background-color: red;
+}
+
+button {
+  cursor: pointer;
 }

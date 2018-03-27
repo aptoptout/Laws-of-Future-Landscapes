@@ -1,4 +1,4 @@
-var ai_questions = [
+const ai_questions = [
     {
         "time": "07:30",
         "title": "morning time",

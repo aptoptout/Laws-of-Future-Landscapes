@@ -3,4 +3,5 @@ A data-driven visual storytelling questionnaire by [Rafael Henneberke](www.rafae
 
 ### Experiments to conduct:
 - [ ] Translate results into 3D geometry
-- [ ] ??
+- [ ] Develop a 'bot' like response to user when using the questionnaire to give a true 'AI' immersive feeling
+- [ ] Create a version with binary answering
