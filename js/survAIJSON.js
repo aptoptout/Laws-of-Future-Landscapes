@@ -735,7 +735,7 @@ const ai_questions = {
                         "text": "No",
                         "tag":  "Pro, User",
                         "note": null,
-                        "next": "01.08.2"
+                        "next": "02.01"
                     }
                 ]
             },
