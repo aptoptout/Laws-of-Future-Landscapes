@@ -28,9 +28,6 @@ The introduction to these technologies goes unseen: it starts with an autocomple
 
 More importantly as we progress with AI and algorithms these technologies lay down a framework where there is almost no space for the human body, it being the weakest link of the chain. Meaning we would need to protect ourselves against it like we needed to add airbags and seatbelts to our cars for driving too fast than our bodies could handle when crashed.
 
-How A.I. & Algorithms evolve in our lives:
-Problem -> broken down into repetitive steps -> rules -> automation (software) -> Customization to multiple problems -> pattern recognization for problems -> training software to solve problems correctly (A.I.) -> Data fed into software is now understood by the software and it can make choices -> Building it's own infrastructure completely without human agents in the process.
-
 It seems that the development of both A.I. and algorithms is pushed by interfaces. Creating an urge for simpler, faster and 'better' filtering and navigation of content. If a user just gives his or hers behavior, data and preferences the A.I. and algorithms will do the rest and make sure you will only see 'relevant'  information.
 
 ### Categories:
