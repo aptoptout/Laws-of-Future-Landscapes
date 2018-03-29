@@ -51,3 +51,6 @@ Presenting an index of several categories which ask per category a question, see
 
 ### Concept 03
 Presenting a set of small scenarios or problems to the visitor which has the option to solve it by means of A.I. or without those technologies.
+
+### Concept 04
+Ask where people position themselves in relation to A.I., do they expect more responsibility from A.I.? Do people feel stronger than an A.I.? Should an A.I. have more or less privilige than a person?
